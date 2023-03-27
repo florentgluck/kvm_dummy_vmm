@@ -2,7 +2,7 @@
 
 Dummy KVM hypervisor that triggers three VMexits:
 
-- PMIO write)
+- PMIO write
 - MMIO write
 - `hlt` instruction
 
